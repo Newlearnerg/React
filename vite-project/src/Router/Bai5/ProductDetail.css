@@ -1,0 +1,27 @@
+.btn-container {
+    border: 1px solid black;
+    padding: 10px;
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 10px 10px rgba(174, 174, 174, 0.906);
+}
+
+.btn-buy {
+    margin-left: 100px;
+    padding: 5px 10px;
+    border: none;
+    background-color: rgb(219, 219, 219);
+}
+
+.btn-buy:hover {
+    background-color: rgb(219, 219, 219);
+    font-weight: bold;
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.txt-success {
+    color: green;
+    font-weight: bold;
+    margin-top: 10px;
+}
